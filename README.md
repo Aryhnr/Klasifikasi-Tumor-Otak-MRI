@@ -56,3 +56,6 @@ Dataset yang digunakan terdiri dari citra MRI otak yang diklasifikasikan ke dala
 
 5. **Implementasi**
    - Membangun antarmuka pengguna (UI) menggunakan **Gradio** untuk klasifikasi gambar MRI secara interaktif.
+
+![image](https://github.com/user-attachments/assets/cd84c3b3-54fd-4888-8b3e-cc840d4a71ff)
+
