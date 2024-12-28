@@ -33,6 +33,8 @@ Proyek ini bertujuan untuk mengembangkan model klasifikasi gambar berbasis **dee
 ## Dataset
 Dataset yang digunakan terdiri dari citra MRI otak yang diklasifikasikan ke dalam empat kelas (Glioma, Meningioma, Pituitary, dan No Tumor). Dataset ini dilengkapi dengan label yang telah diverifikasi oleh ahli medis.
 
+Sumber Dataset (Kaggle) : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
 ---
 
 ## Alur Kerja Proyek
